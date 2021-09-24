@@ -22,7 +22,7 @@ site: distill::distill_website
 <center>
 `r kableExtra::text_spec("About", color = "red")`
 
-## YOUTH FORMATION DIVISION
+# **YOUTH FORMATION DIVISION**
 </center>
 
 
@@ -57,7 +57,7 @@ The YFD strives to empower Filipino children and youth imbued with the values,  
 <center>
 `r kableExtra::text_spec("What we do", color = "red")`
 
-## ENRICHED STUDENT PARTICIPATION
+### ENRICHED STUDENT PARTICIPATION
 
 Amid the global pandemic, everything seemed to have halted. While the rest of the world is still trying to solve a seemingly endless puzzle to unlock the mysteries of a novel virus, the Youth Formation Division (YFD) has taken this unprecedented time as an opportunity to virtually maximize and unlock the full potential of a proactive Filipino youth. With “puso, galling at talion” thousands of student leaders across the country initiated programs, projects, and activities that benefit their fellow youth and the community in general.
 
@@ -68,7 +68,7 @@ Amid the global pandemic, everything seemed to have halted. While the rest of th
 
 <center>
 
-## School Management Monitoring & Evaluation (SMM&E)
+# **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
 Provides technical support in implementing quality management systems in schools. Lead districts and schools/learning centers in the implementation of an M&E system to monitor their progress and adhere to standards and policies towards effective and efficient delivery of quality basic education.
 
