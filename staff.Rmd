@@ -9,26 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Youth Formation Division
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/niel.jpg")
-```
-
-<center>
-
-**NEIL JOHN T. AUDAN**
-
-Project Development Officer I
-
-+639123456789
-
-@email.com
-
-</center>
-
-&nbsp;
-&nbsp;
-
-
-```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/joveth.jpg")
 ```
 
@@ -38,11 +18,45 @@ knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/jove
 
 Project Development Officer I
 
-+639123456789
+09054424100
 
-@email.com
+joveth.tubiano@deped.gov.ph
+
+*Barkada Kontra Droga (BKD)*
+
+*Gulayan sa Paaralan Program (GPP)*
+
+*National Greening Program (NGP)*
+
+*Youth for Environment in School's Organization (YES-O)*
+
+*School Inside a Garden (SIGA)*
 
 </center>
+
+&nbsp;
+&nbsp;
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/niel.jpg")
+```
+
+<center>
+
+**NEIL JOHN T. AUDAN**
+
+Project Development Officer I
+
+09555143994
+
+neiljohn.audan@deped.gov.ph
+
+*Student Government (SSG/SPG)*
+
+*We Advocate Time Consciousness and Honesty (WATCH)*
+
+</center>
+
 
 
 ## School Management Monitoring & Evaluation (SMM&E)
@@ -81,3 +95,5 @@ Education Program Specialist II
 @email.com
 
 </center>
+
+<a href="#top">Back to top</a>

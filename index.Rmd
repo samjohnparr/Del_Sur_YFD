@@ -1,12 +1,20 @@
 ---
-title: "Youth Formation Division"
-description: Division of Davao del Sur
+title: ""
+
 site: distill::distill_website
 ---
 
-```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("yfd_logo.png")
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
 ```
+ 
+<center>
+[![](yfd_logo.png){width=405}](https://www.facebook.com/padadanhs)
+</center>
 
 &nbsp;
 &nbsp;
