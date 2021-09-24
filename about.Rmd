@@ -1,0 +1,15 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+Descriptions
+
+## Location
+
+```{r, echo=FALSE}
+library(leaflet)
+leaflet()%>%addTiles()%>%addMarkers(lng=125.35066,lat=6.65687,popup = "Schools Division Office - Davao del Sur")
+```
+

@@ -1,0 +1,69 @@
+---
+title: "Staff"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Youth Formation Division
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/niel.jpg")
+```
+
+<center>
+
+**NEIL JOHN AUDAN**
+
+Project Development Officer I
+
+
+</center>
+
+&nbsp;
+&nbsp;
+
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/joveth.png")
+```
+
+<center>
+
+**JOVETH G. TUBIANO**
+
+Project Development Officer I
+
+
+</center>
+
+
+## School Management Monitoring & Evaluation (SMM&E)
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/boubert.jpg")
+```
+<center>
+
+**BOUBERT G. DUMAGAN**
+
+Senior Education Program Specialist
+
+</center>
+
+&nbsp;
+&nbsp;
+
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/kirk.jpg")
+```
+
+<center>
+
+**KIRK SONNY GIL P. HERUELA**
+
+Education Program Specialist II
+
+</center>

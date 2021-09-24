@@ -1,0 +1,29 @@
+name: "YFD"
+title: "Youth Formation Division - SMM&E"
+description: 
+output_dir: "_site"
+favicon: favicon.ico
+navbar:
+  logo: 
+    image: yfd_logo.jpg
+    href: index.html 
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Issuances"
+      href: issuances.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Staff"
+      href: staff.html
+    - text: "Registration"
+      href: registration.html
+    - text: "Virtual Events"
+      href: ve.html
+    - text: "Submissions"
+      href: sub.html
+    - text: "About"
+      href: about.html
+    - icon: fab fa-facebook 
+      href: https://www.facebook.com/youthformationdavaodelsur
+output: distill::distill_article
