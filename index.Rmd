@@ -5,7 +5,7 @@ site: distill::distill_website
 ---
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("yfd_logo.jpg")
+knitr::include_graphics("yfd_logo.png")
 ```
 
 &nbsp;

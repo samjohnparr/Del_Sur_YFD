@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nDescriptions\r\nLocation\r\n\r\n\r\n{\"x\":{\"options\":{\"crs\":{\"crsClass\":\"L.CRS.EPSG3857\",\"code\":null,\"proj4def\":null,\"projectedBounds\":null,\"options\":{}}},\"calls\":[{\"method\":\"addTiles\",\"args\":[\"//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png\",null,null,{\"minZoom\":0,\"maxZoom\":18,\"tileSize\":256,\"subdomains\":\"abc\",\"errorTileUrl\":\"\",\"tms\":false,\"noWrap\":false,\"zoomOffset\":0,\"zoomReverse\":false,\"opacity\":1,\"zIndex\":1,\"detectRetina\":false,\"attribution\":\"&copy; <a href=\\\"http://openstreetmap.org\\\">OpenStreetMap<\\/a> contributors, <a href=\\\"http://creativecommons.org/licenses/by-sa/2.0/\\\">CC-BY-SA<\\/a>\"}]},{\"method\":\"addMarkers\",\"args\":[6.65687,125.35066,null,null,null,{\"interactive\":true,\"draggable\":false,\"keyboard\":true,\"title\":\"\",\"alt\":\"\",\"zIndexOffset\":0,\"opacity\":1,\"riseOnHover\":false,\"riseOffset\":250},\"Schools Division Office - Davao del Sur\",null,null,null,null,{\"interactive\":false,\"permanent\":false,\"direction\":\"auto\",\"opacity\":1,\"offset\":[0,0],\"textsize\":\"10px\",\"textOnly\":false,\"className\":\"\",\"sticky\":true},null]}],\"limits\":{\"lat\":[6.65687,6.65687],\"lng\":[125.35066,125.35066]}},\"evals\":[],\"jsHooks\":[]}\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-24T19:33:09+08:00"
+      "last_modified": "2021-09-24T20:13:59+08:00"
     },
     {
       "path": "index.html",
@@ -14,49 +14,49 @@
       "description": "Division of Davao del Sur",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n   \r\n\r\nAbout\r\nYOUTH FORMATION DIVISION\r\n\r\n\r\nThe YFD aims to develop the country’s youth for societal growth.\r\nIt aspires to mold learners into pro-active Filipino Youth who understands that society cannot succeed unless all its parts work together to address the nation’s aspirations.\r\nFurther, it is anchored in supporting the implementation of the K to 12 curriculum by honing and complementing the following learning areas and skills: Societal Engagement, Technical Skills, Social Skills, Creativity and Innovation Skills, Affective skills, and Self Mastery Skills.\r\n\r\n\r\nYFD Purpose\r\nThe YFD endeavors to provide youth-serving units and organizations with responsive, learner-centered, youth-oriented policies, standards, guidelines, programs, and projects*  which shall contribute to the holistic development of learners who are value-driven, career-oriented, culturally-rooted and socially responsible.\r\n\r\n\r\nYFD Goal\r\nThe YFD strives to empower Filipino children and youth imbued with the values, maka-Diyos, maka-Tao, maka-Kalikasan, and maka-Bansa, enabling them to become highly-skilled individuals who are responsible, hardworking, enterprising, persevering, value-driven, and culturally-rooted.\r\n\r\n   \r\n\r\nWhat we do\r\nENRICHED STUDENT PARTICIPATION\r\nAmid the global pandemic, everything seemed to have halted. While the rest of the world is still trying to solve a seemingly endless puzzle to unlock the mysteries of a novel virus, the Youth Formation Division (YFD) has taken this unprecedented time as an opportunity to virtually maximize and unlock the full potential of a proactive Filipino youth. With “puso, galling at talion” thousands of student leaders across the country initiated programs, projects, and activities that benefit their fellow youth and the community in general.\r\n\r\n   \r\n\r\nSchool Management Monitoring & Evaluation (SMM&E)\r\nProvides technical support in implementing quality management systems in schools. Lead districts and schools/learning centers in the implementation of an M&E system to monitor their progress and adhere to standards and policies towards effective and efficient delivery of quality basic education.\r\n\r\n\r\nPurpose and Objectives of M & E\r\nM&E in schools aims to provide objective information that can inform decision-making in order to continuously improve the delivery of school services for basic education and the school’s performance or health to achieve the desired education outcomes. M&E in schools aims to provide valid, reliable and accurate data in decision-making to come up with possible actions and interventions to achieve the desired education outcomes.\r\n\r\nFive specific operational objectives are identified in support of the overall purpose of M&E in the school:\r\nOBJECTIVES\r\nProvide the school management and stakeholders information on the implementation of the curricular programs and projects as basis for continuously improving their relevance, efficiency and effectiveness\r\nProvide information for school management to determine and adjust approaches and strategies that will ensure adequacy, equitable distribution, accessibility, and effective and optimal use of the resources of the school\r\nEstablish information as basis for determining appropriate approach / strategy to improve teaching-learning competencies of teachers to ensure efficient and effective delivery of instruction, classroom management, and their personal growth and professional development\r\nPresent information regarding learner performance to the school management that will support decisions and adjustments to plans and strategies to improve the learners’ academic achievement, school attendance, and participation in co-curricular activities.\r\nProvide information for school management to review and sustain the strategies that can improve the school’s health or performance through:\r\nEfficient school-based management\r\nProductivity of the teaching and non-teaching staff\r\nStrengthening partnership with the community\r\n\r\nUnderlying Principles\r\nThe development of the Monitoring and Evaluation Framework for the school is to be guided by the following principles:\r\nQuality Information\r\nIt is important that M&E information to be collected is appropriate, sufficient and accurate to ensure reliable and objective reports that can be used as bases for planning and decision-making at all levels.\r\nSystems Strengthening\r\nStrategies, processes, and tools to be used for M&E can make use of available systems that have been tried and effectively used in the department. . (available and established mechanism)\r\nEfficiency\r\nResults are achieved with minimum input resources but not compromising quality in all levels and stages of M&E. This includes the ability to report on target sub-groups in a timely manner. (Efficiency in general describes the extent to which time or effort is well used for the intended task or purpose in the production of desired goals and outputs.)\r\nTransparency of Information to Key Stakeholders\r\nM&E subscribes to open, full and credible information. It encourages timely disclosure of information and methodology to stakeholders which are aligned to M&E objectives and processes.\r\nSynergy\r\nM&E encourages participative and collaborative decision-making processes among the different entities for an integrated approach to the attainment of its objectives.\r\nM&E for Learning and Accountability\r\nM&E provides opportunities for continuous improvement of practices/performance through identification of issues and lessons learned. It requires trustworthy, competent and impartial M&E staff.\r\nFocus\r\nM&E calls for careful planning and purposive prioritization of activities guided by the school goals and objectives. “Change does not happen by accident.” The school is a key instrument to implement that change.\r\nSCOPE OF M&E\r\nM&E Content Areas\r\nM&E of the school is designed to obtain and provide information on content areas that have been derived from the stakeholders’ major areas of interests. There are two major focal areas where decisions need to be made: Delivery of Services for Basic Education and Organizational Health/Performance.\r\n\r\n\r\n\r\nFigure 1: M & E Content Areas of Schools\r\n\r\n\r\n\r\nBack to top\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-24T19:33:11+08:00"
+      "last_modified": "2021-09-24T20:14:01+08:00"
     },
     {
       "path": "issuances.html",
       "title": "Issuances",
       "author": [],
       "contents": "\r\nCall for Applications to the STEP Sunburst Youth Camp (SYC) 2021\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-24T19:33:12+08:00"
+      "last_modified": "2021-09-24T20:14:03+08:00"
     },
     {
       "path": "registration.html",
       "title": "Registration",
       "author": [],
       "contents": "\r\nProject BTS: A Balik Eskwela DIgital Literacy Starter Pack!\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-24T19:33:13+08:00"
+      "last_modified": "2021-09-24T20:14:04+08:00"
     },
     {
       "path": "resources.html",
       "title": "Resources",
       "author": [],
       "contents": "\r\nGeneral Orientation on the Interim Guidelines on SG Elections for School Year 2021-2022 under the New Normal PRESENTATION\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-24T19:33:14+08:00"
+      "last_modified": "2021-09-24T20:14:05+08:00"
     },
     {
       "path": "staff.html",
       "title": "Staff",
       "author": [],
-      "contents": "\r\nYouth Formation Division\r\n\r\n\r\n\r\n\r\nNEIL JOHN AUDAN\r\nProject Development Officer I\r\n\r\n   \r\n\r\n\r\n\r\n\r\nJOVETH G. TUBIANO\r\nProject Development Officer I\r\n\r\nSchool Management Monitoring & Evaluation (SMM&E)\r\n\r\n\r\n\r\n\r\nBOUBERT G. DUMAGAN\r\nSenior Education Program Specialist\r\n\r\n   \r\n\r\n\r\n\r\n\r\nKIRK SONNY GIL P. HERUELA\r\nEducation Program Specialist II\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-24T19:33:17+08:00"
+      "contents": "\r\nYouth Formation Division\r\n\r\n\r\n\r\n\r\nNEIL JOHN T. AUDAN\r\nProject Development Officer I\r\n+639123456789\r\n@email.com\r\n\r\n   \r\n\r\n\r\n\r\n\r\nJOVETH G. TUBIANO\r\nProject Development Officer I\r\n+639123456789\r\n@email.com\r\n\r\nSchool Management Monitoring & Evaluation (SMM&E)\r\n\r\n\r\n\r\n\r\nBOUBERT G. DUMAGAN\r\nSenior Education Program Specialist\r\n+639123456789\r\n@email.com\r\n\r\n   \r\n\r\n\r\n\r\n\r\nKIRK SONNY GIL P. HERUELA\r\nEducation Program Specialist II\r\n+639123456789\r\n@email.com\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-24T20:14:08+08:00"
     },
     {
       "path": "sub.html",
       "title": "Submissions",
       "author": [],
       "contents": "\r\nBarkada Kontra Droga\r\nPadada National High School (Google Drive Link)\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-24T19:33:18+08:00"
+      "last_modified": "2021-09-24T20:14:09+08:00"
     },
     {
       "path": "ve.html",
       "title": "Virtual Events",
       "author": [],
       "contents": "\r\nLinks will be included here\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-24T19:33:19+08:00"
+      "last_modified": "2021-09-24T20:14:10+08:00"
     }
   ],
   "collections": []

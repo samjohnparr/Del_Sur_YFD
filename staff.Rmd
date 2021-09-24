@@ -14,10 +14,13 @@ knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/niel
 
 <center>
 
-**NEIL JOHN AUDAN**
+**NEIL JOHN T. AUDAN**
 
 Project Development Officer I
 
++639123456789
+
+@email.com
 
 </center>
 
@@ -26,7 +29,7 @@ Project Development Officer I
 
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/joveth.png")
+knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/joveth.jpg")
 ```
 
 <center>
@@ -35,6 +38,9 @@ knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/jove
 
 Project Development Officer I
 
++639123456789
+
+@email.com
 
 </center>
 
@@ -49,6 +55,10 @@ knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/boub
 **BOUBERT G. DUMAGAN**
 
 Senior Education Program Specialist
+
++639123456789
+
+@email.com
 
 </center>
 
@@ -65,5 +75,9 @@ knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/kirk
 **KIRK SONNY GIL P. HERUELA**
 
 Education Program Specialist II
+
++639123456789
+
+@email.com
 
 </center>
