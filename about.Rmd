@@ -1,10 +1,18 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About Us"
+
 ---
 
-Descriptions
+## **SCHOOL GOVERNANCE AND OPERATIONS DIVISION**
+
+  + Supports and capacitates schools and Learning Centers in ensuring a conducive learning environment and in compliance to quality standards of Governance and Operations.
+  
+### **Outcomes**
+  
+  + Schools and Learning Centers (LCs) effectively and efficiently deliver education services.
+  + Teaching and non-teaching personnel at the SDO are competent in performing their respective duties and functions.
+  + Schools and Learning Centers maintain a conducive learning environment
+  
 
 ## Location
 

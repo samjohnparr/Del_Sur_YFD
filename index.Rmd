@@ -22,7 +22,7 @@ site: distill::distill_website
 <center>
 `r kableExtra::text_spec("About", color = "red")`
 
-# **YOUTH FORMATION DIVISION**
+## **YOUTH FORMATION DIVISION**
 </center>
 
 
@@ -68,7 +68,7 @@ Amid the global pandemic, everything seemed to have halted. While the rest of th
 
 <center>
 
-# **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
+## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
 Provides technical support in implementing quality management systems in schools. Lead districts and schools/learning centers in the implementation of an M&E system to monitor their progress and adhere to standards and policies towards effective and efficient delivery of quality basic education.
 
