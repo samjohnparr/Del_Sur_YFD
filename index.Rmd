@@ -13,7 +13,7 @@ site: distill::distill_website
 ```
  
 <center>
-[![](yfd_logo.png){width=405}](https://www.facebook.com/depedtayodavsur)
+[![](yfd_logo.png){width=405}](https://www.facebook.com/youthformationdavaodelsur/)
 </center>
 
 &nbsp;
@@ -141,5 +141,8 @@ M&E of the school is designed to obtain and provide information on content areas
 knitr::include_graphics("sme.png")
 ```
 
+<p align="right">
 <a href="#top">Back to top</a>
+</p>
+
 

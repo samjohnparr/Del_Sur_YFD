@@ -10,6 +10,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Activities"
+      href: activities.html
     - text: "Issuances"
       href: issuances.html
     - text: "Resources"

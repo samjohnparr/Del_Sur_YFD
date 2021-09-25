@@ -4,3 +4,7 @@ title: "Registration"
 ---
 
 [Project BTS: A Balik Eskwela DIgital Literacy Starter Pack!](https://docs.google.com/forms/d/e/1FAIpQLSeiblPmMVPTvJF0ErDHYTY4nKDlpjnXxcIDvmF17wtKCXw6aw/viewform)
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>

@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Youth Formation Division
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/joveth.jpg")
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/joveth.jpg")
 ```
 
 <center>
@@ -38,7 +38,7 @@ joveth.tubiano@deped.gov.ph
 &nbsp;
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/niel.jpg")
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/niel.jpg")
 ```
 
 <center>
@@ -64,7 +64,7 @@ neiljohn.audan@deped.gov.ph
 ## School Management Monitoring & Evaluation (SMM&E)
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/boubert.jpg")
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/boubert.jpg")
 ```
 <center>
 
@@ -83,7 +83,7 @@ Senior Education Program Specialist
 
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("C:/Users/SAMUEL JOHN/Desktop/YFD/Del_Sur_YFD/staff/kirk.jpg")
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/kirk.jpg")
 ```
 
 <center>
@@ -98,4 +98,7 @@ Education Program Specialist II
 
 </center>
 
+<p align="right">
 <a href="#top">Back to top</a>
+</p>
+

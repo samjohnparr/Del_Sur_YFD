@@ -1,0 +1,123 @@
+---
+title: "Activities"
+---
+<center>
+<a href="#barkada-kontra-droga-bkd">Barkada Kontra Droga</a><br>
+<a href="#child-protection-policy">Child Protection Policy</a><br>
+<a href="#national-greening-program-ngp">National Greening Program</a><br>
+<a href="#school-inside-a-garden-siga">School Inside a Garden</a><br>
+<a href="#student-government-ssgspg">Student Government</a><br>
+<a href="#we-advocate-time-consciousness-and-honesty-watch">W.A.T.C.H.</a><br>
+<a href="#youth-for-environment-in-schools-organization-yes-o">YES-O</a><br>
+</center>
+
+## Barkada Kontra Droga (BKD)
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+text~text~text~text
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>
+
+
+## Child Protection Policy
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/cpp",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+text~text~text~text
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>
+
+
+## Gulayan sa Paaralan Program (GPP)
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/gpp",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+text~text~text~text
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>
+
+
+## National Greening Program (NGP)
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/ngp",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+text~text~text~text
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>
+
+
+## School Inside a Garden (SIGA)
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/siga",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+text~text~text~text
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>
+
+
+## Student Government (SSG/SPG)
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/ssg",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+text~text~text~text
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>
+
+
+## We Advocate Time Consciousness and Honesty (WATCH)
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/watch",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+text~text~text~text
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>
+
+
+## Youth for Environment in School’s Organization (YES-O)
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/yeso",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+text~text~text~text
+
+<p align="right">
+<a href="#top">Back to top</a>
+</p>

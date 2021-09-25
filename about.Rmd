@@ -13,3 +13,7 @@ library(leaflet)
 leaflet()%>%addTiles()%>%addMarkers(lng=125.35066,lat=6.65687,popup = "Schools Division Office - Davao del Sur")
 ```
 
+<p align="right">
+<a href="#top">Back to top</a>
+</p>
+
