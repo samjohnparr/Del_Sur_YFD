@@ -115,7 +115,7 @@ table, th, td {
     </th>
   </tr>
   <tr>
-    <td style="text-align:center"> **Quality Management System**
+    <td style="text-align:center"> <b> Quality Management System </b>
     </td>
     <td> 
       <ul>
@@ -138,7 +138,7 @@ table, th, td {
     </td>
     </tr> 
     <tr>
-      <td style="text-align:center"> **Assessment** 
+      <td style="text-align:center"> <b> Assessment </b>
       </td>
       <td> 
         <ul>
@@ -151,7 +151,7 @@ table, th, td {
         </ul>
       </td>
       <tr>
-      <td style="text-align:center"> **School Compliance to Quality Standards (Public And Private)**
+      <td style="text-align:center"> <b> School Compliance to Quality Standards (Public And Private) </b>
       </td>
       <td>
         <ul> 
@@ -165,7 +165,7 @@ table, th, td {
       </td>
       </tr>
       <tr>
-      <td style="text-align:center"> **Research and Development**
+      <td style="text-align:center"> <b> Research and Development </b>
       </td>
       <td> 
         <ul>
@@ -175,7 +175,7 @@ table, th, td {
       </td>
       </tr>
       <tr>
-      <td style="text-align:center"> **Technical Assistance to Schools and Learning Center**
+      <td style="text-align:center"> <b> Technical Assistance to Schools and Learning Center </b>
       </td>
       <td> 
         <ul> 
