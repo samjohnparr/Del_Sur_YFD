@@ -36,11 +36,14 @@ site: distill::distill_website
 ## **YOUTH FORMATION DIVISION**
 
 <center>
-`r kableExtra::text_spec("About", color = "red")`
+![](yfd_logo.png){width=50%}
 </center>
+&nbsp;
+&nbsp;
 
 <center>
 
+### **ABOUT**
 
 The YFD aims to develop the country’s youth for societal growth.
 
@@ -86,6 +89,12 @@ Amid the global pandemic, everything seemed to have halted. While the rest of th
 
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
+
+<center>
+![](s&e.jpg){width=40%}
+</center>
+&nbsp;
+&nbsp;
 
 <center>
 Supports schools with the implementation of quality management systems. Assist districts and schools/learning centers in implementing an M&E system to track progress and ensure compliance with standards and policies related to the effective and efficient delivery of quality basic education.
@@ -184,26 +193,18 @@ table, th, td {
 
 ## **SOCIAL MOBILIZATION AND NETWORK**
 
-<table style="width:100%">
-  <tr>
-  <th colspan="2", style="text-align:center"> Senior Education Program Specialist </th>
-  </tr>
-  <tr>
-  <td colspan="2">
-  Provides technical support in strengthening and sustaining relationships and collaboration of education partners and stakeholders, and mobilizing resources; and providing tehnical assistance to support special programs and projects towards increasing access to and enhancing delivery of quality basic education.
-  </td>
-  </tr>
-  <tr> 
-    <td style="text-align:center"> **Education Program Specialist II** </td>
-    <td style="text-align:center"> **Project Development Officer II** </td>
-  </tr>
-  <tr>
-    <td> Assists in providing technical support to strengthening partnerships with both internal and external educational stakeholders and respond to the needs of the schools and learning centers for the resources and capacity to implement sustainable programs and projects to enhance the delivery of quality basic education.
-    </td>
-    <td> Coordinates with the NDRRM (CO and RO), Local  Government, and other government agencies to implement mandated measures, programs and projects, in Disaster and Risk Management (DRRM) to the schools division so as to prepare and mitigate the effect of disaster on the delivery of basic education. Provides technical assistance to schools management in identifying, assessing and reducing the risks of disaster to educational facilities, workers and learners and dealing with environmental and other hazards that could trigger disaster.
-    </td>
-  </tr>
-</table>
+<center>
+![](socmob.jpg){width=50%}
+</center>
+&nbsp;
+&nbsp;
+
+
+Provides technical support in strengthening and sustaining relationships and collaboration of education partners and stakeholders, and mobilizing resources; and providing tehnical assistance to support special programs and projects towards increasing access to and enhancing delivery of quality basic education.
+
+Assists in providing technical support to strengthening partnerships with both internal and external educational stakeholders and respond to the needs of the schools and learning centers for the resources and capacity to implement sustainable programs and projects to enhance the delivery of quality basic education.
+  
+Coordinates with the NDRRM (CO and RO), Local  Government, and other government agencies to implement mandated measures, programs and projects, in Disaster and Risk Management (DRRM) to the schools division so as to prepare and mitigate the effect of disaster on the delivery of basic education. Provides technical assistance to schools management in identifying, assessing and reducing the risks of disaster to educational facilities, workers and learners and dealing with environmental and other hazards that could trigger disaster.
 
 </center>
 
