@@ -12,9 +12,20 @@ site: distill::distill_website
  d-title { display: none; } 
 ```
  
+<body>
+
+&nbsp;
+&nbsp;
+
 <center>
 <a href="#youth-formation-division">
-![](yfd_logo.png){width=50%}
+![](yfd_logo.png){width=30%}
+</a>
+<a href="#school-management-monitoring-evaluation-smme">
+![](s&e.jpg){width=20%}
+</a>
+<a href="#social-mobilization-and-network">
+![](socmob.jpg){width=30%}
 </a>
 </center>
 
@@ -42,7 +53,7 @@ Further, it is anchored in supporting the implementation of the K to 12 curricul
 
 ### YFD Purpose
 
-The YFD endeavors to provide youth-serving units and organizations with **responsive, learner-centered, youth-oriented policies, standards, guidelines, programs,** and **projects* ** which shall contribute to the holistic development of learners who are **value-driven, career-oriented, culturally-rooted** and **socially responsible.**
+The YFD endeavors to provide youth-serving units and organizations with **responsive, learner-centered, youth-oriented policies, standards, guidelines, programs,** and **projects**  which shall contribute to the holistic development of learners who are **value-driven, career-oriented, culturally-rooted** and **socially responsible.**
 </center>
 
 <center>
@@ -87,7 +98,7 @@ table, th, td {
 }
 </style>
 
-<table style="width:100%">
+<table style="width:100%", style="border: 5px solid #990000; border-collapse: collapse">
   <tr>
     <th style="text-align:center"> Key Result Area 
     </th>
@@ -172,8 +183,28 @@ table, th, td {
 
 
 ## **SOCIAL MOBILIZATION AND NETWORK**
-<center>
-![](socmob.jpg){width=80%}
+
+<table style="width:100%">
+  <tr>
+  <th colspan="2", style="text-align:center"> Senior Education Program Specialist </th>
+  </tr>
+  <tr>
+  <td colspan="2">
+  Provides technical support in strengthening and sustaining relationships and collaboration of education partners and stakeholders, and mobilizing resources; and providing tehnical assistance to support special programs and projects towards increasing access to and enhancing delivery of quality basic education.
+  </td>
+  </tr>
+  <tr> 
+    <td style="text-align:center"> **Education Program Specialist II** </td>
+    <td style="text-align:center"> **Project Development Officer II** </td>
+  </tr>
+  <tr>
+    <td> Assists in providing technical support to strengthening partnerships with both internal and external educational stakeholders and respond to the needs of the schools and learning centers for the resources and capacity to implement sustainable programs and projects to enhance the delivery of quality basic education.
+    </td>
+    <td> Coordinates with the NDRRM (CO and RO), Local  Government, and other government agencies to implement mandated measures, programs and projects, in Disaster and Risk Management (DRRM) to the schools division so as to prepare and mitigate the effect of disaster on the delivery of basic education. Provides technical assistance to schools management in identifying, assessing and reducing the risks of disaster to educational facilities, workers and learners and dealing with environmental and other hazards that could trigger disaster.
+    </td>
+  </tr>
+</table>
+
 </center>
 
 <p align="right">
@@ -181,7 +212,7 @@ table, th, td {
 </p>
 
 
-## **HUMAN RESOURCE DIVISION**
+## **HUMAN RESOURCE DEVELOPMENT**
 <center>
 text
 </center>
@@ -199,5 +230,7 @@ text
 <p align="right">
 <a href="#top">Back to top</a>
 </p>
+
+</body>
 
 

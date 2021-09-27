@@ -110,7 +110,7 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/quilaton.jpg")
 ```
 <center>
 
-**NAME**
+**BERNIE QUILATON**
 
 Senior Education Program Specialist
 
@@ -128,7 +128,7 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/whodis.jpg")
 ```
 <center>
 
-**NAME**
+**PACE**
 
 Senior Education Program Specialist
 
@@ -138,8 +138,65 @@ Senior Education Program Specialist
 
 </center>
 
+&nbsp;
+&nbsp;
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/chicote.jpg")
+```
 <center>
-## **HUMAN RESOURCE DIVISION**
+
+**CHERRY JOY CHICOTE**
+
+Project Development Officer II
+
++639123456789
+
+@email.com
+
+</center>
+
+<center>
+## **HUMAN RESOURCE DEVELOPMENT**
+</center>
+
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/elyn.jpg")
+```
+<center>
+
+**ELYN SUPRENTE**
+
+Senior Education Program Specialist
+
++639123456789
+
+@email.com
+
+</center>
+
+&nbsp;
+&nbsp;
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/lemuel.jpg")
+```
+
+<center>
+
+**LEMUEL C. MADULIN**
+
+Education Program Specialist II
+
++639123456789
+
+@email.com
+
+</center>
+
+<center>
+## **PLANNING AND RESEARCH**
 </center>
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
@@ -161,22 +218,23 @@ Planning Officer
 &nbsp;
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
-knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/elyn.jpg")
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/kirk.jpg")
 ```
+
 <center>
 
-**ELYN SUPRENTE**
+**KIRK SONNY GIL P. HERUELA, PhD**
 
-Senior Education Program Specialist
+Education Program Specialist II
 
-+639123456789
+09163981596
 
-@email.com
+kirksonnygil.heruela@deped.gov.ph
 
 </center>
 
 <center>
-## **ADMIN**
+## **TOP MANAGEMENT**
 </center>
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
@@ -208,9 +266,15 @@ Assistant Schools Division Superintendent
 &nbsp;
 &nbsp;
 
+<center>
+## **SCHOOL GOVERNANCE AND OPERATIONS DIVISION**
+</center>
+
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/mario.jpg")
 ```
+
+
 <center>
 
 **MARIO C. MONDEJAR, EdD**
