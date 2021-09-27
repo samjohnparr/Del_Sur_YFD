@@ -6,7 +6,9 @@ title: "Staff"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Youth Formation Division
+<center>
+## **YOUTH FORMATION DIVISION**
+</center>
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/joveth.jpg")
@@ -60,8 +62,9 @@ neiljohn.audan@deped.gov.ph
 </center>
 
 
-
-## School Management Monitoring & Evaluation (SMM&E)
+<center>
+## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
+</center>
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/boubert.jpg")
@@ -72,9 +75,9 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/boubert.jpg")
 
 Senior Education Program Specialist
 
-+639123456789
+09176854498
 
-@email.com
+boubert.dumagan@deped.gov.ph
 
 </center>
 
@@ -88,9 +91,28 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/kirk.jpg")
 
 <center>
 
-**KIRK SONNY GIL P. HERUELA**
+**KIRK SONNY GIL P. HERUELA, PhD**
 
 Education Program Specialist II
+
+09163981596
+
+kirksonnygil.heruela@deped.gov.ph
+
+</center>
+
+<center>
+## **SOCIAL MOBILIZATION AND NETWORKING**
+</center>
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/quilaton.jpg")
+```
+<center>
+
+**NAME**
+
+Senior Education Program Specialist
 
 +639123456789
 
@@ -98,7 +120,107 @@ Education Program Specialist II
 
 </center>
 
+&nbsp;
+&nbsp;
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/whodis.jpg")
+```
+<center>
+
+**NAME**
+
+Senior Education Program Specialist
+
++639123456789
+
+@email.com
+
+</center>
+
+<center>
+## **HUMAN RESOURCE DIVISION**
+</center>
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/amy.jpg")
+```
+<center>
+
+**AMY CORRAL**
+
+Planning Officer
+
++639123456789
+
+@email.com
+
+</center>
+
+&nbsp;
+&nbsp;
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/elyn.jpg")
+```
+<center>
+
+**ELYN SUPRENTE**
+
+Senior Education Program Specialist
+
++639123456789
+
+@email.com
+
+</center>
+
+<center>
+## **ADMIN**
+</center>
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/nelson.jpg")
+```
+<center>
+
+**NELSON C. LOPEZ, CESO V**
+
+Schools Division Superintendent 
+
+
+</center>
+
+&nbsp;
+&nbsp;
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/janette.jpg")
+```
+<center>
+
+**JANETTE G. VELOSO, EdD**
+
+Assistant Schools Division Superintendent
+
+</center>
+
+&nbsp;
+&nbsp;
+
+```{r, echo=FALSE,out.width="40%", fig.align='center'}
+knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/mario.jpg")
+```
+<center>
+
+**MARIO C. MONDEJAR, EdD**
+
+Chief Education Program Supervisor - SGOD
+
+</center>
+
 <p align="right">
 <a href="#top">Back to top</a>
 </p>
+
 

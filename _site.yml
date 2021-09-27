@@ -11,7 +11,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Programs"
-      href: activities.html
+      href: programs.html
     - text: "Issuances"
       href: issuances.html
     - text: "Resources"

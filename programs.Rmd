@@ -4,11 +4,9 @@ title: "Programs"
 <center>
 <a href="#youth-formation-division">YOUTH FORMATION DIVISION</a><br>
 <a href="#school-management-monitoring-evaluation-smme">SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)</a><br>
-<a href="#national-greening-program-ngp">National Greening Program</a><br>
-<a href="#school-inside-a-garden-siga">School Inside a Garden</a><br>
-<a href="#student-government-ssgspg">Student Government</a><br>
-<a href="#we-advocate-time-consciousness-and-honesty-watch">W.A.T.C.H.</a><br>
-<a href="#youth-for-environment-in-schools-organization-yes-o">YES-O</a><br>
+<a href="#social-mobilization-and-network">SOCIAL MOBILIZATION AND NETWORK</a><br>
+<a href="#human-resource-division">HUMAN RESOURCE DIVISION</a><br>
+<a href="#planning-and-research">PLANNING AND RESEARCH</a><br>
 </center>
 
 ## **YOUTH FORMATION DIVISION**
@@ -35,7 +33,7 @@ text~text~text~text
 </p>
 
 
-## Gulayan sa Paaralan Program (GPP)
+## **SOCIAL MOBILIZATION AND NETWORK**
 
 
 text~text~text~text
@@ -45,7 +43,7 @@ text~text~text~text
 </p>
 
 
-## National Greening Program (NGP)
+## **HUMAN RESOURCE DIVISION**
 
 
 text~text~text~text
@@ -55,7 +53,7 @@ text~text~text~text
 </p>
 
 
-## School Inside a Garden (SIGA)
+## **PLANNING AND RESEARCH**
 
 
 text~text~text~text
@@ -65,31 +63,3 @@ text~text~text~text
 </p>
 
 
-## Student Government (SSG/SPG)
-
-
-text~text~text~text
-
-<p align="right">
-<a href="#top">Back to top</a>
-</p>
-
-
-## We Advocate Time Consciousness and Honesty (WATCH)
-
-
-text~text~text~text
-
-<p align="right">
-<a href="#top">Back to top</a>
-</p>
-
-
-## Youth for Environment in School’s Organization (YES-O)
-
-
-text~text~text~text
-
-<p align="right">
-<a href="#top">Back to top</a>
-</p>
