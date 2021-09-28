@@ -7,14 +7,17 @@ title: "Virtual Events"
 ![](yfd_logo.png){width=30%}
 </a>
 <a href="#school-management-monitoring-evaluation-smme">
-![](s&e.jpg){width=20%}
+![](s&e.png){width=20%}
 </a>
 <a href="#social-mobilization-and-network">
 ![](socmob.jpg){width=30%}
+</a> <br>
+<a href="#human-resource-developmenk">
+![](human resources logo.png){width=20%}
 </a>
-<br>
-<a href="#human-resource-development">HUMAN RESOURCE DEVELOPMENT</a><br>
-<a href="#planning-and-research">PLANNING AND RESEARCH</a><br>
+<a href="#planning-and-research">
+![](research.png){width=23%}
+</a>
 </center>
 
 ## **YOUTH FORMATION DIVISION**

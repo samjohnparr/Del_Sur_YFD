@@ -2,10 +2,17 @@
 title: "About Us"
 
 ---
-
+<center>
 ## **SCHOOL GOVERNANCE AND OPERATIONS DIVISION**
+</center>
 
-  + Supports and capacitates schools and Learning Centers in ensuring a conducive learning environment and in compliance to quality standards of Governance and Operations.
+<center>
+![](sgod.png){width=45%}
+</center>
+
+
+Supports and capacitates schools and Learning Centers in ensuring a conducive learning environment and in compliance to quality standards of Governance and Operations.
+
   
 ### **Outcomes**
   

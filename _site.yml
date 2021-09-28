@@ -5,7 +5,7 @@ output_dir: "_site"
 favicon: favicon.ico
 navbar:
   logo: 
-    image: yfd_logo.jpg
+    image: sgod.png
     href: index.html 
   right:
     - text: "Home"

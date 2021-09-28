@@ -22,10 +22,16 @@ site: distill::distill_website
 ![](yfd_logo.png){width=30%}
 </a>
 <a href="#school-management-monitoring-evaluation-smme">
-![](s&e.jpg){width=20%}
+![](s&e.png){width=20%}
 </a>
 <a href="#social-mobilization-and-network">
 ![](socmob.jpg){width=30%}
+</a> <br>
+<a href="#human-resource-developmenk">
+![](human resources logo.png){width=20%}
+</a>
+<a href="#planning-and-research">
+![](research.png){width=23%}
 </a>
 </center>
 
@@ -91,7 +97,7 @@ Amid the global pandemic, everything seemed to have halted. While the rest of th
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
 <center>
-![](s&e.jpg){width=40%}
+![](s&e.png){width=40%}
 </center>
 &nbsp;
 &nbsp;
@@ -190,6 +196,9 @@ table, th, td {
 <a href="#top">Back to top</a>
 </p>
 
+&nbsp;
+&nbsp;
+
 
 ## **SOCIAL MOBILIZATION AND NETWORK**
 
@@ -212,17 +221,33 @@ Coordinates with the NDRRM (CO and RO), Local  Government, and other government 
 <a href="#top">Back to top</a>
 </p>
 
+&nbsp;
+&nbsp;
+
 
 ## **HUMAN RESOURCE DEVELOPMENT**
 
+<center>
+![](human resources logo.png){width=40%}
+</center>
+&nbsp;
+&nbsp;
 
 <p align="right">
 <a href="#top">Back to top</a>
 </p>
 
+&nbsp;
+&nbsp;
+
 
 ## **PLANNING AND RESEARCH**
 
+<center>
+![](research.png){width=45%}
+</center>
+&nbsp;
+&nbsp;
 
 <p align="right">
 <a href="#top">Back to top</a>

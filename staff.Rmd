@@ -10,6 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ## **YOUTH FORMATION DIVISION**
 </center>
 
+<center>
+[![](yfd_logo.png){width=50%}](https://www.facebook.com/youthformationdavaodelsur/)
+</center>
+&nbsp;
+&nbsp;
+
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/joveth.jpg")
 ```
@@ -66,6 +72,12 @@ neiljohn.audan@deped.gov.ph
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 </center>
 
+<center>
+![](s&e.png){width=40%}
+</center>
+&nbsp;
+&nbsp;
+
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/boubert.jpg")
 ```
@@ -104,6 +116,12 @@ kirksonnygil.heruela@deped.gov.ph
 <center>
 ## **SOCIAL MOBILIZATION AND NETWORKING**
 </center>
+
+<center>
+![](socmob.jpg){width=50%}
+</center>
+&nbsp;
+&nbsp;
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/quilaton.jpg")
@@ -160,6 +178,11 @@ Project Development Officer II
 ## **HUMAN RESOURCE DEVELOPMENT**
 </center>
 
+<center>
+![](human resources logo.png){width=40%}
+</center>
+&nbsp;
+&nbsp;
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/elyn.jpg")
@@ -198,6 +221,12 @@ Education Program Specialist II
 <center>
 ## **PLANNING AND RESEARCH**
 </center>
+
+<center>
+![](research.png){width=45%}
+</center>
+&nbsp;
+&nbsp;
 
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/amy.jpg")
@@ -270,12 +299,20 @@ Assistant Schools Division Superintendent
 ## **SCHOOL GOVERNANCE AND OPERATIONS DIVISION**
 </center>
 
+<center>
+![](sgod.png){width=45%}
+</center>
+&nbsp;
+&nbsp;
+
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/mario.jpg")
 ```
 
 
 <center>
+
+
 
 **MARIO C. MONDEJAR, EdD**
 
