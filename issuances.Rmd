@@ -12,7 +12,8 @@ title: "Issuances"
 <a href="#social-mobilization-and-network">
 ![](socmob.jpg){width=30%}
 </a>
-<a href="#human-resource-division">HUMAN RESOURCE DIVISION</a><br>
+<br>
+<a href="#human-resource-development">HUMAN RESOURCE DEVELOPMENT</a><br>
 <a href="#planning-and-research">PLANNING AND RESEARCH</a><br>
 </center>
 
@@ -27,7 +28,6 @@ title: "Issuances"
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
 
-text~text~text~text
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -37,7 +37,6 @@ text~text~text~text
 ## **SOCIAL MOBILIZATION AND NETWORK**
 
 
-text~text~text~text
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -47,8 +46,6 @@ text~text~text~text
 ## **HUMAN RESOURCE DEVELOPMENT**
 
 
-text~text~text~text
-
 <p align="right">
 <a href="#top">Back to top</a>
 </p>
@@ -57,7 +54,6 @@ text~text~text~text
 ## **PLANNING AND RESEARCH**
 
 
-text~text~text~text
 
 <p align="right">
 <a href="#top">Back to top</a>
