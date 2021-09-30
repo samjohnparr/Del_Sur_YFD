@@ -12,7 +12,7 @@ title: "Submissions"
 <a href="#social-mobilization-and-network">
 ![](socmob.jpg){width=30%}
 </a> <br>
-<a href="#human-resource-developmenk">
+<a href="#human-resource-development">
 ![](human resources logo.png){width=20%}
 </a>
 <a href="#planning-and-research">
@@ -21,8 +21,12 @@ title: "Submissions"
 </center>
 
 ## **YOUTH FORMATION DIVISION**
-
-  * Link 
+  <center>
+   <fig>
+   [![](bkd.jpg){width=20%}](https://forms.gle/czNsNeUuGi2uVEN1A) <br>
+   [Barkada Kontra Droga (BKD)](https://forms.gle/czNsNeUuGi2uVEN1A)
+   </fig>
+   </center>
 
 <p align="right">
 <a href="#top">Back to top</a>

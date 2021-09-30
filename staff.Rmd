@@ -146,7 +146,7 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/whodis.jpg")
 ```
 <center>
 
-**PACE**
+**ANTONIO IV C. PACE**
 
 Senior Education Program Specialist
 
