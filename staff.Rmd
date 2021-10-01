@@ -266,6 +266,12 @@ kirksonnygil.heruela@deped.gov.ph
 ## **TOP MANAGEMENT**
 </center>
 
+<center>
+![](division_logo.png){width=40%}
+</center>
+&nbsp;
+&nbsp;
+
 ```{r, echo=FALSE,out.width="40%", fig.align='center'}
 knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/nelson.jpg")
 ```
