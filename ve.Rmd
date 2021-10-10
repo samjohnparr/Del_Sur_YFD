@@ -46,6 +46,12 @@ title: "Virtual Events"
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -54,7 +60,12 @@ title: "Virtual Events"
 
 ## **SOCIAL MOBILIZATION AND NETWORK**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -63,7 +74,12 @@ title: "Virtual Events"
 
 ## **HUMAN RESOURCE DEVELOPMENT**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -72,7 +88,12 @@ title: "Virtual Events"
 
 ## **PLANNING AND RESEARCH**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>

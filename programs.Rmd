@@ -38,6 +38,12 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -46,6 +52,12 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 
 ## **SOCIAL MOBILIZATION AND NETWORK**
 
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -54,6 +66,12 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 
 ## **HUMAN RESOURCE DEVELOPMENT**
 
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>

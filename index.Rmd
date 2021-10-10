@@ -75,6 +75,30 @@ The YFD strives to empower Filipino children and youth imbued with the values,  
 
 </center>
 
+<center>
+<div style="display: flex; justify-content: center">
+<figure class="left">
+  ![](Makatao.png)
+  <figcaption  text-align: center>**Makatao**</figcaption>
+</figure>
+
+<figure class="right">
+  ![](Maka-Dios.png)
+  <figcaption  text-align: center>**Maka-Dios**</figcaption>
+</figure>
+
+<figure class="left">
+  ![](Makakalikasan.png)
+  <figcaption  text-align: center>**Makakalikasan**</figcaption>
+</figure>
+
+<figure class="right">
+  ![](Makabansa.png)
+  <figcaption  text-align: center>**Makabansa**</figcaption>
+</figure>
+</div>
+<center>
+
 &nbsp;
 &nbsp;
 
@@ -232,6 +256,14 @@ Coordinates with the NDRRM (CO and RO), Local  Government, and other government 
 <center>
 ![](human resources logo.png){width=40%}
 </center>
+
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
+
 &nbsp;
 &nbsp;
 
@@ -248,6 +280,14 @@ Coordinates with the NDRRM (CO and RO), Local  Government, and other government 
 <center>
 ![](research.png){width=45%}
 </center>
+
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
+
 &nbsp;
 &nbsp;
 

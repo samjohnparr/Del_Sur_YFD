@@ -51,6 +51,12 @@ title: "Submissions"
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
 
 
 <p align="right">
@@ -60,7 +66,12 @@ title: "Submissions"
 
 ## **SOCIAL MOBILIZATION AND NETWORK**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -69,7 +80,12 @@ title: "Submissions"
 
 ## **HUMAN RESOURCE DEVELOPMENT**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -78,7 +94,12 @@ title: "Submissions"
 
 ## **PLANNING AND RESEARCH**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>

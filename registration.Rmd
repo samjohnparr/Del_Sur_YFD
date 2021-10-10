@@ -47,7 +47,12 @@ title: "Registration"
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -56,6 +61,12 @@ title: "Registration"
 
 ## **SOCIAL MOBILIZATION AND NETWORK**
 
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
 
 
 <p align="right">
@@ -65,7 +76,12 @@ title: "Registration"
 
 ## **HUMAN RESOURCE DEVELOPMENT**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
@@ -74,7 +90,12 @@ title: "Registration"
 
 ## **PLANNING AND RESEARCH**
 
+&nbsp;
+&nbsp;
 
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>

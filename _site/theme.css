@@ -11,6 +11,12 @@
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
 
+body {
+  width: 100%; 
+	max-width: 1248px; /* or whatever width you want */ 
+	margin-right: auto; 
+	margin-left: auto; 
+}
 
 html {
   /*-- Main font sizes --*/
@@ -77,3 +83,6 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
+.left, .right {
+  display: inline-block;
+}
