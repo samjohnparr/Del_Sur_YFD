@@ -80,6 +80,12 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 
 ## **PLANNING AND RESEARCH**
 
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
 
 <p align="right">
 <a href="#top">Back to top</a>
