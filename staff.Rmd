@@ -128,13 +128,13 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/quilaton.jpg")
 ```
 <center>
 
-**BERNIE QUILATON**
+**BERNIE G. QUILATON**
 
 Senior Education Program Specialist
 
-+639123456789
+09452775831
 
-@email.com
+bernie.quilaton@deped.gov.ph
 
 </center>
 
@@ -150,9 +150,9 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/whodis.jpg")
 
 Senior Education Program Specialist
 
-+639123456789
+09953694606
 
-@email.com
+antonio.paceiv@deped.gov.ph
 
 </center>
 
@@ -164,13 +164,13 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/chicote.jpg")
 ```
 <center>
 
-**CHERRY JOY CHICOTE**
+**CHERREY JOY D. CHICOTE**
 
 Project Development Officer II
 
-+639123456789
+09307984399
 
-@email.com
+cherreyjoy.chicote@deped.gov.ph
 
 </center>
 
@@ -189,13 +189,12 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/elyn.jpg")
 ```
 <center>
 
-**ELYN SUPRENTE**
+**ELYN L. SUPRENTE**
 
 Senior Education Program Specialist
 
-+639123456789
 
-@email.com
+elyn.suprente@deped.gov.ph
 
 </center>
 
@@ -212,9 +211,9 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/lemuel.jpg")
 
 Education Program Specialist II
 
-+639123456789
+09099539667
 
-@email.com
+lemuel.madulin@deped.gov.ph
 
 </center>
 
@@ -237,9 +236,9 @@ knitr::include_graphics("D:/Website/YFD/Del_Sur_YFD/staff/amy.jpg")
 
 Planning Officer
 
-+639123456789
+09399282632
 
-@email.com
+amy.corral001@deped.gov.ph
 
 </center>
 

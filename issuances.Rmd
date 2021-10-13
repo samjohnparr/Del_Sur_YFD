@@ -3,21 +3,40 @@ title: "Issuances"
 ---
 
 <center>
+
+<div style="display: flex; justify-content: center">
+
+<figure>
 <a href="#youth-formation-division">
-![](yfd_logo.png){width=30%}
+![](yfd_logo.png){width=270%}
 </a>
+</figure>
+
+<figure>
 <a href="#school-management-monitoring-evaluation-smme">
-![](s&e.png){width=20%}
+![](s&e.png){width=50%}
 </a>
+</figure>
+
+<figure>
 <a href="#social-mobilization-and-network">
-![](socmob.jpg){width=30%}
-</a> <br>
+![](socmob.jpg){width=90%}
+</a>
+</figure>
+
+<figure>
 <a href="#human-resource-development">
-![](human resources logo.png){width=20%}
+![](human resources logo.png){width=60%}
 </a>
+</figure>
+
+<figure>
 <a href="#planning-and-research">
-![](research.png){width=23%}
+![](research.png){width=80%}
 </a>
+</figure>
+
+</div>
 </center>
 
 ## **YOUTH FORMATION DIVISION**
@@ -36,9 +55,13 @@ title: "Issuances"
 
 ### **Student Government (SSG/SPG)**
 
+[Submission of Documents and Other Related Files on the Conduct of School-Based SG Elections](https://drive.google.com/file/d/1euWOKwUDQp-vFfp-DeRmw80yrEQ_5llt/view)
+
 [Division Reorientation on 2021 Student Government Election - School Level](https://drive.google.com/file/d/1KsmFxkn55uFC_lAYyGS6CjlqPlsyEJm7/view)
 
 ### **We Advocate Time Consciousness and Honesty (WATCH)**
+
+[Project WATCH Coaching to Selected Schools (Wave 2)](https://drive.google.com/file/d/1Eh2EqIiC9sakAM1Pi0s2EBVOia0A9pl8/view)
 
 ### **Youth for Environment in School's Organization (YES-O)**
 

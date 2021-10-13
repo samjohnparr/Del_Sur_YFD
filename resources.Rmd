@@ -3,21 +3,40 @@ title: "Resources"
 ---
 
 <center>
+
+<div style="display: flex; justify-content: center">
+
+<figure>
 <a href="#youth-formation-division">
-![](yfd_logo.png){width=30%}
+![](yfd_logo.png){width=270%}
 </a>
+</figure>
+
+<figure>
 <a href="#school-management-monitoring-evaluation-smme">
-![](s&e.png){width=20%}
+![](s&e.png){width=50%}
 </a>
+</figure>
+
+<figure>
 <a href="#social-mobilization-and-network">
-![](socmob.jpg){width=30%}
-</a> <br>
+![](socmob.jpg){width=90%}
+</a>
+</figure>
+
+<figure>
 <a href="#human-resource-development">
-![](human resources logo.png){width=20%}
+![](human resources logo.png){width=60%}
 </a>
+</figure>
+
+<figure>
 <a href="#planning-and-research">
-![](research.png){width=23%}
+![](research.png){width=80%}
 </a>
+</figure>
+
+</div>
 </center>
 
 ## **YOUTH FORMATION DIVISION**
