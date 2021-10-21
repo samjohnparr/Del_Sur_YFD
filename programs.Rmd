@@ -51,7 +51,7 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -65,7 +65,7 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -79,7 +79,7 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -93,7 +93,7 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -107,7 +107,7 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 </body>

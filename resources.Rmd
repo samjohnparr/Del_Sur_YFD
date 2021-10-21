@@ -62,7 +62,7 @@ title: "Resources"
 
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
@@ -75,7 +75,7 @@ title: "Resources"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -89,7 +89,7 @@ title: "Resources"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -103,7 +103,7 @@ title: "Resources"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -117,5 +117,5 @@ title: "Resources"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>

@@ -136,7 +136,7 @@ Amid the global pandemic, everything seemed to have halted. While the rest of th
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 &nbsp;
@@ -243,7 +243,7 @@ table, th, td {
 </table>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 &nbsp;
@@ -268,7 +268,7 @@ Coordinates with the NDRRM (CO and RO), Local  Government, and other government 
 </div>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 &nbsp;
@@ -292,7 +292,7 @@ Coordinates with the NDRRM (CO and RO), Local  Government, and other government 
 &nbsp;
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 &nbsp;
@@ -316,7 +316,7 @@ Coordinates with the NDRRM (CO and RO), Local  Government, and other government 
 &nbsp;
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 </body>

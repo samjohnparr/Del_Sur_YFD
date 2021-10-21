@@ -60,7 +60,7 @@ title: "Virtual Events"
 ### **Youth for Environment in School's Organization (YES-O)**
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
@@ -73,7 +73,7 @@ title: "Virtual Events"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -87,7 +87,7 @@ title: "Virtual Events"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -101,7 +101,7 @@ title: "Virtual Events"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -115,5 +115,5 @@ title: "Virtual Events"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>

@@ -326,7 +326,7 @@ Chief Education Program Supervisor - SGOD
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 

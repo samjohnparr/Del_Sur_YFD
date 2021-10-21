@@ -65,7 +65,7 @@ title: "Submissions"
 ### **Youth for Environment in School's Organization (YES-O)**
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
@@ -79,7 +79,7 @@ title: "Submissions"
 
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -93,7 +93,7 @@ title: "Submissions"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -107,7 +107,7 @@ title: "Submissions"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -121,5 +121,5 @@ title: "Submissions"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>

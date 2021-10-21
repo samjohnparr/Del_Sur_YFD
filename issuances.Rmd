@@ -71,7 +71,7 @@ title: "Issuances"
 
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
@@ -80,7 +80,7 @@ title: "Issuances"
 
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -94,7 +94,7 @@ title: "Issuances"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
 
@@ -108,7 +108,7 @@ title: "Issuances"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}top</a>
 </p>
 
 
@@ -122,5 +122,5 @@ title: "Issuances"
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>

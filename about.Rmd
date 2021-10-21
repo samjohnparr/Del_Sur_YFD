@@ -31,6 +31,6 @@ Supports and capacitates schools and Learning Centers in ensuring a conducive le
 </center>
 
 <p align="right">
-<a href="#top">Back to top</a>
+<a href="#top">![](backtotop.png){width=7%}</a>
 </p>
 
