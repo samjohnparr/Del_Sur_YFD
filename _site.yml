@@ -21,9 +21,9 @@ navbar:
     - text: "Registration"
       href: registration.html
     - text: "Virtual Events"
-      href: ve.html
+      href: virtual-events.html
     - text: "Submissions"
-      href: sub.html
+      href: submissions.html
     - text: "About"
       href: about.html
     - icon: fab fa-facebook 
