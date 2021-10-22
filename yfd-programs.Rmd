@@ -1,0 +1,90 @@
+---
+title: "Youth Formation Division Programs"
+---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<center>
+[![](yfd_logo.png){width=50%}](https://www.facebook.com/youthformationdavaodelsur/)
+
+
+## **YOUTH FORMATION DIVISION**
+
+</center>
+&nbsp;
+&nbsp;
+
+<center>
+
+```{r, echo=FALSE}
+library(slickR)
+slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
+```
+
+
+### **Barkada Kontra Droga (BKD)**
+
+<center>
+*to be updated*
+</center>
+
+### **Child Protection Policy**
+
+<center>
+*to be updated*
+</center>
+
+### **Gulayan sa Paaralan Program (GPP)**
+
+<center>
+*to be updated*
+</center>
+
+### **National Greening Program (NGP)**
+
+<center>
+*to be updated*
+</center>
+
+### **School Inside a Garden (SIGA)**
+
+<center>
+*to be updated*
+</center>
+
+### **Student Government (SSG/SPG)**
+
+<center>
+*to be updated*
+</center>
+
+### **We Advocate Time Consciousness and Honesty (WATCH)**
+
+<center>
+*to be updated*
+</center>
+
+### **Youth for Environment in School’s Organization (YES-O)**
+
+<center>
+*to be updated*
+</center>
+
+<p align="right">
+<a href="#top">![](backtotop.png){width=7%}</a>
+</p>
+
+</body>
+

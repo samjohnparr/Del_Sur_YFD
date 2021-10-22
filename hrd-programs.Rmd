@@ -1,0 +1,47 @@
+---
+title: "School Management Monitoring & Evaluation Programs"
+---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+
+<center>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+![](human resources logo.png){width=40%}
+
+
+
+## **HUMAN RESOURCE DEVELOPMENT**
+
+
+
+</center>
+
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
+
+<p align="right">
+<a href="#top">![](backtotop.png){width=7%}</a>
+</p>
+
+
+
+
+</body>
+

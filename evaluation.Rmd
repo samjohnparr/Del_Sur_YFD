@@ -1,6 +1,31 @@
 ---
-title: "Submissions"
+title: "Resources"
 ---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+
+<center>
+
+&nbsp;
+&nbsp;
+
+
+
+## **EVALUATION**
+
+&nbsp;
+&nbsp;
+
+</center>
 
 <center>
 
@@ -43,12 +68,7 @@ title: "Submissions"
 
 ### **Barkada Kontra Droga (BKD)**
 
-  <center>
-   <fig>
-   [![](bkd.jpg){width=20%}](https://forms.gle/czNsNeUuGi2uVEN1A) <br>
-   [Barkada Kontra Droga (BKD)](https://forms.gle/czNsNeUuGi2uVEN1A)
-   </fig>
-   </center>
+[Capacity Building on Barkada Kontra Droga Implementation and Advocacies Evaluation](https://bit.ly/CapBldgBKD)
 
 ### **Child Protection Policy**
 
@@ -64,6 +84,8 @@ title: "Submissions"
 
 ### **Youth for Environment in School's Organization (YES-O)**
 
+
+
 <p align="right">
 <a href="#top">![](backtotop.png){width=7%}</a>
 </p>
@@ -76,7 +98,6 @@ title: "Submissions"
 <center>
 *to be updated*
 </center>
-
 
 <p align="right">
 <a href="#top">![](backtotop.png){width=7%}</a>

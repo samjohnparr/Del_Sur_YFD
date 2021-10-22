@@ -11,19 +11,79 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Programs"
-      href: programs.html
+      menu:
+      - text: "Youth Formation Division"
+        href: yfd-programs.html
+      - text: "School Management Monitoring & Evaluation"
+        href: smme-programs.html
+      - text: "Social Mobilization and Network"
+        href: socmob-programs.html
+      - text: "Human Resource Development"
+        href: hrd-programs.html
+      - text: "Planning and Research"
+        href: planning-and-research-programs.html
     - text: "Issuances"
-      href: issuances.html
+      menu:
+      - text: "Youth Formation Division"
+        href: yfd-issuances.html
+      - text: "School Management Monitoring & Evaluation"
+        href: smme-issuances.html
+      - text: "Social Mobilization and Network"
+        href: socmob-issuances.html
+      - text: "Human Resource Development"
+        href: hrd-issuances.html
+      - text: "Planning and Research"
+        href: planning-and-research-issuances.html
     - text: "Resources"
-      href: resources.html
+      menu:
+      - text: "Videos"
+        href: videos.html
+      - text: "Forms"
+        href: forms.html
+      - text: "Certificates"
+        href: certificates.html
+      - text: "Presentations"
+        href: presentations.html
+      - text: "Evaluation"
+        href: evaluation.html
     - text: "Staff"
       href: staff.html
     - text: "Registration"
-      href: registration.html
+      menu:
+        - text: "Youth Formation Division"
+          href: yfd-registration.html
+        - text: "School Management Monitoring & Evaluation"
+          href: smme-registration.html
+        - text: "Social Mobilization and Network"
+          href: socmob-registration.html
+        - text: "Human Resource Development"
+          href: hrd-registration.html
+        - text: "Planning and Research"
+          href: planning-and-research-registration.html 
     - text: "Virtual Events"
-      href: virtual-events.html
+      menu:
+      - text: "Youth Formation Division"
+        href: yfd-virtual-events.html
+      - text: "School Management Monitoring & Evaluation"
+        href: smme-virtual-events.html
+      - text: "Social Mobilization and Network"
+        href: socmob-virtual-events.html
+      - text: "Human Resource Development"
+        href: hrd-virtual-events.html
+      - text: "Planning and Research"
+        href: planning-and-research-virtual-events.html
     - text: "Submissions"
-      href: submissions.html
+      menu:
+      - text: "Youth Formation Division"
+        href: yfd-submissions.html
+      - text: "School Management Monitoring & Evaluation"
+        href: smme-submissions.html
+      - text: "Social Mobilization and Network"
+        href: socmob-submissions.html
+      - text: "Human Resource Development"
+        href: hrd-submissions.html
+      - text: "Planning and Research"
+        href: planning-and-research-submissions.html
     - text: "About"
       href: about.html
     - icon: fab fa-facebook 

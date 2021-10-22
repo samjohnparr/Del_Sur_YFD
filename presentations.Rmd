@@ -1,7 +1,31 @@
 ---
-title: "Registration"
-
+title: "Resources"
 ---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+
+<center>
+
+&nbsp;
+&nbsp;
+
+
+
+## **VIDEOS**
+
+&nbsp;
+&nbsp;
+
+</center>
 
 <center>
 
@@ -42,11 +66,7 @@ title: "Registration"
 
 ## **YOUTH FORMATION DIVISION**
 
-[Project BTS: A Balik Eskwela DIgital Literacy Starter Pack!](https://docs.google.com/forms/d/e/1FAIpQLSeiblPmMVPTvJF0ErDHYTY4nKDlpjnXxcIDvmF17wtKCXw6aw/viewform)
-
 ### **Barkada Kontra Droga (BKD)**
-
-[Capacity Building on Barkada Kontra Droga Implementation and Advocacies](https://forms.gle/wtQ2MJ4LH4KC9ihk6)
 
 ### **Child Protection Policy**
 
@@ -58,9 +78,13 @@ title: "Registration"
 
 ### **Student Government (SSG/SPG)**
 
+[General Orientation on the Interim Guidelines on SG Elections for School Year 2021-2022 under the New Normal PRESENTATION](https://drive.google.com/drive/folders/1caswYEvFFIvGZR9M-hui1Ohjym8Nl5w9?usp=sharing)
+
 ### **We Advocate Time Consciousness and Honesty (WATCH)**
 
 ### **Youth for Environment in School's Organization (YES-O)**
+
+
 
 <p align="right">
 <a href="#top">![](backtotop.png){width=7%}</a>
@@ -88,7 +112,6 @@ title: "Registration"
 <center>
 *to be updated*
 </center>
-
 
 <p align="right">
 <a href="#top">![](backtotop.png){width=7%}</a>
@@ -121,3 +144,5 @@ title: "Registration"
 <p align="right">
 <a href="#top">![](backtotop.png){width=7%}</a>
 </p>
+
+</body>

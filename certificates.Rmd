@@ -1,9 +1,31 @@
 ---
-title: "Programs"
+title: "Resources"
 ---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
 
 <body>
 
+
+<center>
+
+&nbsp;
+&nbsp;
+
+
+
+## **CERTIFICATES**
+
+&nbsp;
+&nbsp;
+
+</center>
 
 <center>
 
@@ -44,16 +66,27 @@ title: "Programs"
 
 ## **YOUTH FORMATION DIVISION**
 
-```{r, echo=FALSE}
-library(slickR)
-slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE), height = 200, width = '95%')+settings(dots=TRUE, initialSlide = 0, slidesToShow = 3, slidesToScroll = 3, focusOnSelect = TRUE, autoplay = TRUE)
-```
+### **Barkada Kontra Droga (BKD)**
+
+### **Child Protection Policy**
+
+### **Gulayan sa Paaralan Program (GPP)**
+
+### **National Greening Program (NGP)**
+
+### **School Inside a Garden (SIGA)**
+
+### **Student Government (SSG/SPG)**
+
+### **We Advocate Time Consciousness and Honesty (WATCH)**
+
+### **Youth for Environment in School's Organization (YES-O)**
+
 
 
 <p align="right">
 <a href="#top">![](backtotop.png){width=7%}</a>
 </p>
-
 
 ## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
 
@@ -109,6 +142,3 @@ slickR(list.files("D:/Website/YFD/Del_Sur_YFD/carousel/bkd",  full.names = TRUE)
 <p align="right">
 <a href="#top">![](backtotop.png){width=7%}</a>
 </p>
-
-</body>
-

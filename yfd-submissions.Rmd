@@ -1,0 +1,55 @@
+---
+title: "Submissions"
+---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<center>
+[![](yfd_logo.png){width=50%}](https://www.facebook.com/youthformationdavaodelsur/)
+
+
+## **YOUTH FORMATION DIVISION**
+
+</center>
+
+### **Barkada Kontra Droga (BKD)**
+
+  <center>
+   <fig>
+   [![](bkd.jpg){width=20%}](https://forms.gle/czNsNeUuGi2uVEN1A) <br>
+   [Barkada Kontra Droga (BKD)](https://forms.gle/czNsNeUuGi2uVEN1A)
+   </fig>
+   </center>
+
+### **Child Protection Policy**
+
+### **Gulayan sa Paaralan Program (GPP)**
+
+### **National Greening Program (NGP)**
+
+### **School Inside a Garden (SIGA)**
+
+### **Student Government (SSG/SPG)**
+
+### **We Advocate Time Consciousness and Honesty (WATCH)**
+
+### **Youth for Environment in School's Organization (YES-O)**
+
+<p align="right">
+<a href="#top">![](backtotop.png){width=7%}</a>
+</p>
+
+
+</body>

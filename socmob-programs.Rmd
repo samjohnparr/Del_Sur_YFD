@@ -1,0 +1,46 @@
+---
+title: "School Management Monitoring & Evaluation Programs"
+---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+
+<center>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+![](socmob.jpg){width=50%}
+
+
+
+## **SOCIAL MOBILIZATION AND NETWORK**
+
+
+</center>
+
+&nbsp;
+&nbsp;
+
+<center>
+*to be updated*
+</center>
+
+<p align="right">
+<a href="#top">![](backtotop.png){width=7%}</a>
+</p>
+
+
+
+
+</body>
+

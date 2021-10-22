@@ -2,6 +2,31 @@
 title: "Resources"
 ---
 
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+
+<center>
+
+&nbsp;
+&nbsp;
+
+
+
+## **FORMS**
+
+&nbsp;
+&nbsp;
+
+</center>
+
 <center>
 
 <div style="display: flex; justify-content: center">
@@ -52,8 +77,6 @@ title: "Resources"
 ### **School Inside a Garden (SIGA)**
 
 ### **Student Government (SSG/SPG)**
-
-[General Orientation on the Interim Guidelines on SG Elections for School Year 2021-2022 under the New Normal PRESENTATION](https://drive.google.com/drive/folders/1caswYEvFFIvGZR9M-hui1Ohjym8Nl5w9?usp=sharing)
 
 ### **We Advocate Time Consciousness and Honesty (WATCH)**
 

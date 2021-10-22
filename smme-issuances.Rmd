@@ -1,0 +1,42 @@
+---
+title: "Issuances"
+---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+
+<center>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+![](s&e.png){width=40%}
+
+
+## **SCHOOL MANAGEMENT MONITORING & EVALUATION (SMM&E)**
+
+</center>
+
+&nbsp;
+&nbsp;
+
+
+[Planning Conference for Capacity Building Program for Educational Leaders on School M&E Systems](https://drive.google.com/file/d/1dKlNUZoI2wjDomsM-mbepeuE2nXwXL1w/view)
+
+
+<p align="right">
+<a href="#top">![](backtotop.png){width=7%}</a>
+</p>
+
+
+
+</body>

@@ -1,0 +1,59 @@
+---
+title: "Issuances"
+---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<center>
+[![](yfd_logo.png){width=50%}](https://www.facebook.com/youthformationdavaodelsur/)
+
+
+## **YOUTH FORMATION DIVISION**
+
+</center>
+
+
+### **Barkada Kontra Droga (BKD)**
+
+[Virtual Capacity Building on Barkada Kontra Droga Implementation and Advocacies](https://drive.google.com/file/d/16430tSiLg9eO4yxd59ZCnIGNpWov6Ish/view)
+
+### **Child Protection Policy**
+
+### **Gulayan sa Paaralan Program (GPP)**
+
+### **National Greening Program (NGP)**
+
+### **School Inside a Garden (SIGA)**
+
+### **Student Government (SSG/SPG)**
+
+[Submission of Documents and Other Related Files on the Conduct of School-Based SG Elections](https://drive.google.com/file/d/1euWOKwUDQp-vFfp-DeRmw80yrEQ_5llt/view)
+
+[Division Reorientation on 2021 Student Government Election - School Level](https://drive.google.com/file/d/1KsmFxkn55uFC_lAYyGS6CjlqPlsyEJm7/view)
+
+### **We Advocate Time Consciousness and Honesty (WATCH)**
+
+[Project WATCH Coaching to Selected Schools (Wave 2)](https://drive.google.com/file/d/1Eh2EqIiC9sakAM1Pi0s2EBVOia0A9pl8/view)
+
+### **Youth for Environment in School's Organization (YES-O)**
+
+
+
+
+<p align="right">
+<a href="#top">![](backtotop.png){width=7%}</a>
+</p>
+
+</body>

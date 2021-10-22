@@ -1,6 +1,31 @@
 ---
-title: "Virtual Events"
+title: "Resources"
 ---
+
+```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE) 
+``` 
+
+```{css} 
+ d-title { display: none; } 
+```
+
+<body>
+
+
+<center>
+
+&nbsp;
+&nbsp;
+
+
+
+## **VIDEOS**
+
+&nbsp;
+&nbsp;
+
+</center>
 
 <center>
 
@@ -43,10 +68,6 @@ title: "Virtual Events"
 
 ### **Barkada Kontra Droga (BKD)**
 
-[Capacity Building on Barkada Kontra Droga Implementation and Advocacies](https://meet.google.com/oiw-kmyf-kcn)
-
-[Virtual Special Meeting on Barkada Kontra Droga (BKD) Advisers](https://meet.google.com/uho-nook-qne)
-
 ### **Child Protection Policy**
 
 ### **Gulayan sa Paaralan Program (GPP)**
@@ -60,6 +81,8 @@ title: "Virtual Events"
 ### **We Advocate Time Consciousness and Honesty (WATCH)**
 
 ### **Youth for Environment in School's Organization (YES-O)**
+
+
 
 <p align="right">
 <a href="#top">![](backtotop.png){width=7%}</a>
